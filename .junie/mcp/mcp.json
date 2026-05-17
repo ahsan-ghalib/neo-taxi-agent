@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "/Users/ahsan-ghalib/Library/Application Support/Herd/bin/php85",
+            "args": [
+                "/Users/ahsan-ghalib/Documents/projects/laravel/neo-taxi-agent/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
